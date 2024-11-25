@@ -40,5 +40,5 @@
 
 ### 🌈 "Sonhando alto, codando mais alto ainda!"  
 <div align="center">
-  <img src="https://i.imgur.com/YOUR_GIF_URL.gif" width="400" alt="Animação em azul com frases inspiradoras">
+  <img src="https://i.imgur.com/https://br.pinterest.com/pin/123004633568606757/" width="400" alt="Animação em azul com frases inspiradoras">
 </div>
