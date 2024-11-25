@@ -20,7 +20,6 @@
 
 ## 💫 Meus Projetos Favoritos  
 🌐 **[Projeto Vida Marinha](#)**: Site para promover a conscientização sobre a conservação dos oceanos.  
-✨ **[Pokémon Planner](#)**: Ferramenta para criar estratégias em batalhas e capturas.
 
 ---
 
