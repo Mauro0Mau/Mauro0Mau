@@ -4,7 +4,6 @@
 
 ## 🚀 Sobre Mim  
 👨‍💻 Desenvolvedor apaixonado por criar experiências únicas na web. Atualmente, focado em:
-- 🌊 **Conservação da vida marinha no Brasil** 🌱
 - 🖥️ **Desenvolvimento Front-end com React e FireBase**
 - 🎮 **Amante de Pokémon** e soluções criativas em programação 🎉  
 
