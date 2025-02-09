@@ -14,7 +14,13 @@
 - **Outras**: Lua, C#, Arduino 💻🔌
 
 ## 📈 Estatísticas
+
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mauro0Mau&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro0Mau&layout=compact&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=52D9D9)
+
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Mauro0Mau&bg_color=020c0d&color=52d9d9&line=52d9d9&point=66e4f2&area=true&hide_border=true)
+
 
 ## 💼 Meus Projetos
 - **[Jyn-Nutritive](https://github.com/Mauro0Mau/Jyn-Nutritive)**: Projeto desenvolvido na Etec de Hortolândia, versão atual em desenvolvimento 🔄.
