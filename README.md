@@ -33,5 +33,5 @@
 
 ## 📬 Entre em Contato
 - E-mail: [mauriciodasilvadesouza7270@gmail.com](mailto:mauriciodasilvadesouza7270@gmail.com) 📧
-- LinkedIn: [Mauricio da Silva de Souza]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/mauricio-silva-43885b265/)) 🔗
+- LinkedIn: [Mauricio da Silva de Souza]([https://www.linkedin.com/in/mauricio-silva-43885b26]) 🔗
 
