@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋✨
+# Olá, sou Mauricio Silva de Souza 👋✨
 
 ## 🚀 Sobre Mim
 - Desenvolvedor de **sites web** com foco em **front-end** e experiência em **JavaScript**, **HTML**, **CSS**, e **Java**.
