@@ -7,12 +7,17 @@
 - Também tenho interesse em **desenvolvimento de jogos** e **experimentos** com **Roblox** 🎮.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Front-end**: React, HTML, CSS, JavaScript ⚙️
+- **Front-end**: React, HTML, HTML5, CSS, JavaScript ⚙️
+- **Design**: Canvas, Figma, Bootstrap 🖌
 - **Mobile**: React Native 📱
-- **Back-end**: Firebase, Java 🔧
+- **Back-end**: Firebase, Java, Python, PHP, SQL 🔧
 - **Versão Controle**: Git, GitHub 🔑
-- **Outras**: Lua, C#, Arduino 💻🔌
+- **Outras**: Lua, C#, C++, Arduino 💻🔌
 
+## 👨‍💻 Sistemas Operacionais 
+-  Windows 10 / 11
+-  Linux
+-  Ubunto
 ## 📈 Estatísticas
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mauro0Mau&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical&title_color=3772FF&bg_color=020c0d&text_color=52D9D9&icon_color=3772FF&border_color=3772FF)
