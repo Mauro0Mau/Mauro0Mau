@@ -15,7 +15,7 @@
 
 ## 📈 Estatísticas
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mauro0Mau&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mauro0Mau&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical&title_color=3772FF&bg_color=020c0d&text_color=52D9D9&icon_color=3772FF&border_color=3772FF)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro0Mau&layout=compact&title_color=3772FF&bg_color=020c0d&text_color=52D9D9&border_color=3772FF)
 
