@@ -22,11 +22,14 @@
 -  Ubunto
 ## 📈 Estatísticas
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mauro0Mau&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical&title_color=3772FF&bg_color=020c0d&text_color=52D9D9&icon_color=3772FF&border_color=3772FF)
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; height: 100vh;">
+  <img height="181px" src="https://github-readme-stats.vercel.app/api?username=Mauro0Mau&title_color=3772FF&bg_color=020c0d&icon_color=52D9D9&text_color=52D9D9&border_color=3772FF&show_icons=true" />
+  
+  <img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro0Mau&layout=compact&title_color=3772FF&bg_color=020c0d&text_color=52D9D9&border_color=3772FF" />
+  
+  <img height="390px" src="https://github-readme-activity-graph.vercel.app/graph?username=Mauro0Mau&bg_color=020c0d&color=3772FF&line=52D9D9&point=66e4f2&area=true&hide_border=true" />
+</div>
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro0Mau&layout=normal&title_color=3772FF&bg_color=020c0d&text_color=52D9D9&border_color=3772FF)
-
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Mauro0Mau&bg_color=020c0d&color=3772FF&line=52d9d9&point=66e4f2&area=true&hide_border=false)
 
 
 ## 💼 Meus Projetos
