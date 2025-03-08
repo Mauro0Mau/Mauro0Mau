@@ -6,6 +6,8 @@
 - Apaixonado por **tecnologia** e sempre em busca de aprender mais! 📚💡
 - Também tenho interesse em **desenvolvimento de jogos** e **experimentos** com **Roblox** 🎮.
 
+![Citação do Dia](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## 🛠️ Tecnologias e Ferramentas
 - **Front-end**: React, HTML, HTML5, CSS, JavaScript ⚙️
 - **Design**: Canvas, Figma, Bootstrap 🖌
