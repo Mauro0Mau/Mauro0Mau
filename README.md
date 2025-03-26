@@ -39,7 +39,7 @@
 - **[Brazilian Waters](https://github.com/Mauro0Mau/Brazilian-Waters)**: TCC sobre a vida marinha no Brasil 🌊🐠.
 - **[HTML-CSS](https://github.com/Mauro0Mau/html-css)**: Curso de HTML5 e CSS3 do Curso em Vídeo 💻.
 - **[JavaScript](https://github.com/Mauro0Mau/javascript)**: Prática de JavaScript ⚡.
-- **[Site Sukuna](https://github.com/Mauro0Mau/site_sukuna)**: Site sobre o Rei das Maldições 🔮.
+- **[Site Sukuna](https://github.com/Mauro0Mau/site_sukuna)**: Site sobre o Rei das Maldições.
 - **[Contatos](https://github.com/Mauro0Mau/contatos)**: Sistema de contatos 📇.
 - **[Recomendacoes](https://github.com/Mauro0Mau/recomendacoes)**: Recomendações de filmes 🎬🍿.
 - **[JavaScript Fundamentos](https://github.com/Mauro0Mau/javascript-fundamentos)**: Fundamentos de JavaScript 🔍.
