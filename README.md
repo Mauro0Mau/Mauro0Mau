@@ -22,7 +22,8 @@
 -  Ubunto
 ## 📈 Estatísticas
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; min-height: 100vh; padding: 20px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; min-height: 100vh; padding: 20px;">
+  
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img height="181px" src="https://github-readme-stats.vercel.app/api?username=Mauro0Mau&title_color=3772FF&bg_color=020c0d&icon_color=52D9D9&text_color=52D9D9&border_color=3772FF&show_icons=true" />
     
@@ -30,7 +31,9 @@
   </div>
 
   <img height="390px" src="https://github-readme-activity-graph.vercel.app/graph?username=Mauro0Mau&bg_color=020c0d&color=3772FF&line=52D9D9&point=66e4f2&area=true&hide_border=true" />
+  
 </div>
+
 
 
 ## 💼 Meus Projetos
