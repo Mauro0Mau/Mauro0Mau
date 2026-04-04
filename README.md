@@ -2,6 +2,7 @@
 
 ## 🚀 Sobre Mim
 - Desenvolvedor de **sites web** com foco em **front-end** e experiência em **JavaScript**, **HTML**, **CSS**, e **Java**.
+- Desenvolvedor de **softwares** com foco em **Python**.
 - Técnico em **Desenvolvimento de Sistemas** pela **Etec de Hortolândia** 🎓.
 - Apaixonado por **tecnologia** e sempre em busca de aprender mais! 📚💡
 - Também tenho interesse em **desenvolvimento de jogos** e **experimentos** com **Roblox** 🎮.
@@ -14,7 +15,7 @@
 - **Mobile**: React Native 📱
 - **Back-end**: Firebase, Java, Python, PHP, SQL 🔧
 - **Versão Controle**: Git, GitHub 🔑
-- **Outras**: Lua, C#, C++, Arduino 💻🔌
+- **Outras**: Lua, C#, C++, Cobol, Arduino 💻🔌
 
 ## 👨‍💻 Sistemas Operacionais 
 -  Windows 10 / 11
