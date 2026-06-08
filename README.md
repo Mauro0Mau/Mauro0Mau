@@ -1,26 +1,27 @@
 # Olá, me chamo Mauricio Silva de Souza 👋✨
 
 ## 🚀 Sobre Mim
-- Desenvolvedor de **sites web** com foco em **front-end** e experiência em **JavaScript**, **HTML**, **CSS**, e **Java**.
-- Desenvolvedor de **softwares** com foco em **Python**.
-- Técnico em **Desenvolvimento de Sistemas** pela **Etec de Hortolândia** 🎓.
-- Apaixonado por **tecnologia** e sempre em busca de aprender mais! 📚💡
-- Também tenho interesse em **desenvolvimento de jogos** e **experimentos** com **Roblox** 🎮.
+- Desenvolvedor de **softwares** com foco em **back-end** e experiência em **JAVA**, **NetBeans**, **SpringBoot**, e **IntelliJ Community**
+- Desenvolvedor de **softwares** com foco em **Java**
+- Técnico em **Desenvolvimento de Sistemas** pela **Etec de Hortolândia** 🎓
+- Apaixonado por **tecnologia** e sempre em busca de aprender mais! 
+- Também tenho interesse em **desenvolvimento de jogos** e **experimentos** com **Roblox** 🎮
 
 ![Citação do Dia](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Front-end**: React, HTML, HTML5, CSS, JavaScript ⚙️
-- **Design**: Canvas, Figma, Bootstrap 🖌
-- **Mobile**: React Native 📱
-- **Back-end**: Java, Python, Firebase, PHP, SQL 🔧
-- **Versão Controle**: Git, GitHub 🔑
-- **Outras**: Lua Roblox, C#, C++, Cobol, Arduino 💻🔌
+- **Front-end**: React, HTML, HTML5, CSS, JavaScript
+- **Back-end**: Java, Python, Firebase, PHP, SQL
+- **Design**: Canvas, Figma, Bootstrap 
+- **Mobile**: React Native  
+- **Versão Controle**: Git, GitHub 
+- **Outras**: Lua Roblox, C#, C++, Cobol, Arduino 
 
 ## 👨‍💻 Sistemas Operacionais 
 -  Windows 10 / 11
 -  Linux
 -  Ubunto
+  
 ## 📈 Estatísticas
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 40px; min-height: 100vh; padding: 20px;">
