@@ -13,9 +13,9 @@
 - **Front-end**: React, HTML, HTML5, CSS, JavaScript ⚙️
 - **Design**: Canvas, Figma, Bootstrap 🖌
 - **Mobile**: React Native 📱
-- **Back-end**: Firebase, Java, Python, PHP, SQL 🔧
+- **Back-end**: Java, Python, Firebase, PHP, SQL 🔧
 - **Versão Controle**: Git, GitHub 🔑
-- **Outras**: Lua, C#, C++, Cobol, Arduino 💻🔌
+- **Outras**: Lua Roblox, C#, C++, Cobol, Arduino 💻🔌
 
 ## 👨‍💻 Sistemas Operacionais 
 -  Windows 10 / 11
